@@ -1,1 +1,11 @@
 hello class
+
+
+Hello everyone, 
+I'm Yuanjie Li, you can call me Li. 
+I like the weather in seattle, and I love sports and watching NBA.
+Hope every one in this class will learn a lot about coding and make good friends. 
+I believe we are all going to be successful! 
+
+
+now I am going to save this file. 
